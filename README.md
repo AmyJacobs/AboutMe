@@ -15,6 +15,10 @@ None. Simple HTML page.
 * Bootstrap
 * Atom
 
+## Live Version
+
+https://amyjacobs.github.io/AboutMe/
+
 ## Authors
 
 * **Amy Jacobs** - (https://github.com/AmyJacobs)
