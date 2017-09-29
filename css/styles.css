@@ -3,3 +3,22 @@
   float: left;
   padding:10px;
 }
+
+h1 {
+  text-align:center;
+  font-size:80px;
+  margin-bottom:40px;
+  border-bottom: 1px solid lightgrey;
+  color: white;
+}
+
+#writing {
+  font-family:cursive;
+  color: #31708f;
+}
+
+body {
+  background-color: #31708f;
+  background-image: url("http://www.psdgraphics.com/file/abstract-background.jpg");
+  background-size: 100%;
+}
